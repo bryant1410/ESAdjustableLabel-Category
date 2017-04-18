@@ -1,5 +1,5 @@
 
-#ESAdjustable Label Category
+# ESAdjustable Label Category
 
 Adjusting the size of a UILabel is a pain in the back. This category provides a couple of simple methods to make this process less painful:
 
